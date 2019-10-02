@@ -7,5 +7,10 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <!-- TODO 1: First set teh AppTheme.Launcher Theme, use launch_screen in drawable directory -->
+    <style name="AppTheme.Launcher">
+        <item name="android:windowBackground">@drawable/ronaldo</item>
+    </style>
+
 
 </resources>
